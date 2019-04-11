@@ -67,12 +67,6 @@ export default class App extends Component {
   }
 }
 
-const Lista = () => {
-    return(
-      <Text>123123</Text>
-    );
-};
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
