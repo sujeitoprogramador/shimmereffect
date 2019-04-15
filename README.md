@@ -1,5 +1,5 @@
 <img src="https://sujeitoprogramador.com/wp-content/uploads/2018/04/cropped-SujeitoP-1.png" width="300" height="100">
-# Código Shimmer Effect :)
+<h1> Código Shimmer Effect :) </h1>
 
 ## Versão react native usada: 
 > react-native: 0.59.4 
