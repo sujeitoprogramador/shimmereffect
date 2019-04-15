@@ -6,5 +6,7 @@
 
 # Siga nossas redes sociais:
 [Facebook](https://www.facebook.com/sujeitoprogramador/)
+</br>
 [Instagram](https://instagram.com/sujeitoprogramador/)
+</br>
 [Nosso Site](https://sujeitoprogramador.com/)
