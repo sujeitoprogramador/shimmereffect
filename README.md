@@ -4,6 +4,9 @@
 ## Versão react native usada: 
 > react-native: 0.59.4 
 
+## Documentação da biblioteca usada:
+[ShimmerPlaceHolder](https://github.com/tomzaku/react-native-shimmer-placeholder)
+
 # Siga nossas redes sociais:
 [Facebook](https://www.facebook.com/sujeitoprogramador/)
 </br>
